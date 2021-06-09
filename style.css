@@ -1,0 +1,14 @@
+table img {
+  width:150px;
+}
+th {
+  background-color:lightblue;
+}
+td,th {
+  padding:10px;
+}
+table {
+  width:800px;
+  margin:0 auto;
+  background-color:whitesmoke;
+}
